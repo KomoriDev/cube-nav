@@ -43,7 +43,7 @@ const authorName = s[s.length - 2]
 const repoName = s[s.length - 1]
 
 const htmlTemplate = `
-  <!-- https://github.com/xjh22222228/nav -->
+  <!-- https://github.com/mute23-code/cube-nav -->
   <title>${title}</title>
   <meta name="description" content="${description}">
   <meta name="keywords" content="${keywords}">
