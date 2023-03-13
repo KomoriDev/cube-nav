@@ -1,5 +1,5 @@
 export default {
-  _webTitle: '发现导航',
+  _webTitle: '魔方导航',
   _uncategorized: '未分类',
   _modifySuccess: '修改成功！',
   _copySuccess: '复制成功',

@@ -70,7 +70,7 @@ ${cnzzScript}
 `.trim()
 
 let seoTemplate = `
-<div data-url="https://github.com/xjh22222228/nav" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
+<div data-url="https://github.com/mute23-code/cube-nav" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
 `
 
 async function buildSeo() {
