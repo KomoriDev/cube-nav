@@ -1,6 +1,6 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
-  "homeUrl": "https://nav3.cn",
+  "favicon": "https://raw.gitmirror.com/mute23-code/cube-nav/image/logo.svg",
+  "homeUrl": "mute23-code.github.io/cube-nav",
   "language": "zh-CN",
   "loading": "random",
   "showGithub": false,
@@ -9,25 +9,25 @@
   "keywords": "魔方,三阶,魔方导航",
   "theme": "Light",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © Wild Soul, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://github.com/mute23-code/cube-nav/blob/main/data/img/sim-cover-1.jpg",
+      "src": "https://raw.gitmirror.com/mute23-code/cube-nav/image/sim-cover-1.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://github.com/mute23-code/cube-nav/blob/main/data/img/sim-cover-2.jpg",
+      "src": "https://raw.gitmirror.com/mute23-code/cube-nav/image/sim-cover-2.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您学习和玩乐",
   "simThemeHeight": 350,
   "simThemeAutoplay": true,
   "sideThemeImages": [
