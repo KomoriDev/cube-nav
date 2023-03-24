@@ -7,7 +7,7 @@
   "title": "魔方导航",
   "description": "专业灵活的的魔方导航站，发现优质魔方学习资源",
   "keywords": "魔方,三阶,魔方导航",
-  "theme": "Light",
+  "theme": "Sim",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © Wild Soul, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
