@@ -7,11 +7,11 @@
   "title": "魔方导航",
   "description": "专业灵活的的魔方导航站，发现优质魔方学习资源",
   "keywords": "魔方,三阶,魔方导航",
-  "theme": "Sim",
+  "theme": "Side",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © Wild Soul, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?c310f2fd4d5c0b351ee587cdd4d6a4c7",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
@@ -32,13 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://raw.gitmirror.com/mute23-code/cube-nav/image/sim-cover-1.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://raw.gitmirror.com/mute23-code/cube-nav/image/sim-cover-2.jpg",
       "url": "",
       "width": null,
       "height": null
